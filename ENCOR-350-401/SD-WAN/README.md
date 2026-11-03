@@ -24,3 +24,9 @@ As atividades práticas serão adicionadas somente após execução e validaçã
 ### 2. Arquitetura e planos SD-WAN
 
 ![Arquitetura Cisco SD-WAN](imagens/file_000000003b50820e8fa49042a02d9d25.png)
+
+
+### 3. Componentes, planos e operação SD-WAN
+
+![Cisco SD-WAN - Componentes, planos e operação](imagens/file_000000009cc4820e80a4ec8e43e25aaa.png)
+  
