@@ -14,3 +14,13 @@ Documentação progressiva dos conceitos de Software-Defined WAN, com foco em co
 **Estudar → Compreender → Praticar → Documentar → Compartilhar.**
 
 As atividades práticas serão adicionadas somente após execução e validação.
+
+## Diagramas SD-WAN
+
+### 1. Modelos de implantação
+
+![Modelos de implantação Cisco SD-WAN](imagens/file_000000008ba4820eba24f151644313aa.png)
+
+### 2. Arquitetura e planos SD-WAN
+
+![Arquitetura Cisco SD-WAN](imagens/file_000000003b50820e8fa49042a02d9d25.png)
